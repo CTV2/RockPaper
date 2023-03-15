@@ -50,3 +50,16 @@ body{
     color: white;
     font-family:  monospace	;
 }
+#win{
+    font-size: 24px;
+    color: white;
+    font-family: monospace;
+}
+.again{
+    border: 5px solid blue;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    margin-top: 35px;
+}
